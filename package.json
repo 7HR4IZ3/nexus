@@ -8,6 +8,9 @@
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
+  "dependencies": {
+    "firebase": "^10.8.0"
+  },
   "devDependencies": {
     "@nuxt/devtools": "^1.0.3",
     "nuxt": "^3.8.2",
